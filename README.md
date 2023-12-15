@@ -139,6 +139,7 @@
 9. Object aware monocular depth prediction with instance convolutions (ICRA 2022) [PDF](https://arxiv.org/pdf/2112.01521.pdf)
 10. Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation (CVPR 2023) [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf)
 11. DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)
+12. Does depth estimation help object detection? (ICV 2022) [PDF](https://arxiv.org/pdf/2204.06512.pdf)
     
 ##  Graph Neural Network
 1. Learning Convolutional Neural Networks for Graphs (ICML 2016) [PDF](https://proceedings.mlr.press/v48/niepert16.pdf)
@@ -168,6 +169,8 @@
 10. GPDAN: Grasp Pose Domain Adaptation Network for Sim-to-Real 6-DoF Object Grasping (RAL 2023) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10153686)
 11. VGPN: 6-DoF Grasp Pose Detection Network Based on Hough Voting (IROS 2022) [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981925)
 12. Robotic Grasping from Classical to Modern: A Survey [PDF](https://arxiv.org/pdf/2202.03631.pdf)
+13. RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention (ICRA 2023) [PDF](https://arxiv.org/pdf/2302.14264.pdf)
+14. MonoGraspNet: 6-DoF Grasping with a Single RGB Image (ICRA 2023) [PDF](https://arxiv.org/pdf/2209.13036.pdf)
 
 ## Backbone
 1. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV 2019) [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf)
